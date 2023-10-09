@@ -1,6 +1,6 @@
 {
   "name": "base58",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "base58-ui",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,5 @@
     "url": "https://github.com/brain-wallet/base58/issues"
   },
   "homepage": "https://github.com/brain-wallet/base58#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
